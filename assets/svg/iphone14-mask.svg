@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800" width="400" height="800">
+  <!-- iPhone 14 Outline - This will be the mask shape -->
+  <path d="M320,800 L80,800 C35.82,800 0,764.18 0,720 L0,80 C0,35.82 35.82,0 80,0 L320,0 C364.18,0 400,35.82 400,80 L400,720 C400,764.18 364.18,800 320,800 Z" 
+        fill="#ffffff"/>
+</svg>
