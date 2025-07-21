@@ -1,0 +1,15 @@
+# Prevent directory listing
+Options -Indexes
+
+# Protect config files
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Protect sensitive files
+<FilesMatch "^(database\.php|\.env)">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
