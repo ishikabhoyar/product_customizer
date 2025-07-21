@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800" width="400" height="800">
+  <!-- iPhone 14 Outline -->
+  <path d="M320,800 L80,800 C35.82,800 0,764.18 0,720 L0,80 C0,35.82 35.82,0 80,0 L320,0 C364.18,0 400,35.82 400,80 L400,720 C400,764.18 364.18,800 320,800 Z" 
+        fill="none" stroke="#333333" stroke-width="2"/>
+  
+  <!-- Screen -->
+  <rect x="20" y="20" width="360" height="760" rx="60" ry="60" fill="#1a1a1a" opacity="0.1"/>
+  
+  <!-- Dynamic Island -->
+  <rect x="120" y="30" width="160" height="40" rx="20" ry="20" fill="#000000"/>
+  
+  <!-- Front Camera -->
+  <circle cx="150" cy="50" r="10" fill="#333333"/>
+  
+  <!-- Face ID Sensors -->
+  <circle cx="250" cy="50" r="8" fill="#333333"/>
+  
+  <!-- Volume Buttons -->
+  <rect x="-5" y="150" width="10" height="40" rx="2" ry="2" fill="#333333"/>
+  <rect x="-5" y="200" width="10" height="40" rx="2" ry="2" fill="#333333"/>
+  
+  <!-- Power Button -->
+  <rect x="395" y="180" width="10" height="60" rx="2" ry="2" fill="#333333"/>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800" width="400" height="800">
+  <!-- iPhone 14 Outline -->
+  <path d="M320,800 L80,800 C35.82,800 0,764.18 0,720 L0,80 C0,35.82 35.82,0 80,0 L320,0 C364.18,0 400,35.82 400,80 L400,720 C400,764.18 364.18,800 320,800 Z" 
+        fill="none" stroke="#333333" stroke-width="2"/>
+  
+  <!-- Dynamic Island -->
+  <rect x="120" y="30" width="160" height="40" rx="20" ry="20" fill="#000000"/>
+  
+  <!-- Camera Module Cutout (for back view) -->
+  <g class="camera-module">
+    <rect x="300" y="50" width="80" height="80" rx="20" ry="20" fill="#000000"/>
+    
+    <!-- Main Camera -->
+    <circle cx="330" cy="80" r="15" fill="#1a1a1a"/>
+    <circle cx="330" cy="80" r="10" fill="#0a0a0a"/>
+    
+    <!-- Ultra Wide Camera -->
+    <circle cx="350" cy="80" r="15" fill="#1a1a1a"/>
+    <circle cx="350" cy="80" r="10" fill="#0a0a0a"/>
+    
+    <!-- Flash -->
+    <circle cx="340" cy="50" r="8" fill="#ffffff"/>
+  </g>
+  
+  <!-- Volume Buttons -->
+  <rect x="-5" y="150" width="10" height="40" rx="2" ry="2" fill="#333333"/>
+  <rect x="-5" y="200" width="10" height="40" rx="2" ry="2" fill="#333333"/>
+  
+  <!-- Power Button -->
+  <rect x="395" y="180" width="10" height="60" rx="2" ry="2" fill="#333333"/>
+</svg>
