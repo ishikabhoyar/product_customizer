@@ -1,0 +1,9 @@
+<?php
+return [
+    'host' => 'YOUR_NEON_HOST', // e.g., 'ep-cool-forest-123456.us-east-1.aws.neon.tech'
+    'port' => '5432',
+    'dbname' => 'YOUR_DATABASE_NAME', // Usually 'neondb' by default
+    'user' => 'YOUR_USERNAME', // Usually 'neondb_owner' by default
+    'password' => 'YOUR_PASSWORD',
+    'sslmode' => 'require'
+];
